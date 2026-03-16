@@ -1,0 +1,2 @@
+Documentação inicial do projeto colaborativo.
+Este artefato descreve o funcionamento do sistema.
